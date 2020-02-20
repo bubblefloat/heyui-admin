@@ -22,7 +22,7 @@
         ```
     2. 本项目 (建议如此)：
         ```
-        git clone ...
+        git clone https://github.com/bubblefloat/heyui-admin.git 项目名
         ```
 3. 安装
     ```
