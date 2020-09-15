@@ -26,6 +26,8 @@ heyui-admin is a mature enterprise application solution. It based on vue and use
 
 This is a mature front-end solution. You can use this project to complete all front-end development work.
 
+Pick me!!!
+
 
 ## Online Preview
 
